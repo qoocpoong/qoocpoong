@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Quoc Phong 👋
 
-<!--
-**qoocpoong/qoocpoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 3rd-year student majoring in Cybersecurity at Gia Dinh University (2022 - 2025).
 
-Here are some ideas to get you started:
+🔐 I have hands-on experience in:
+- Web Security Testing (Burp Suite, WebGoat, DVWA)
+- Log Analysis & Monitoring (Linux, Wazuh)
+- Network Protocols (Wireshark, TCP/IP, DNS, HTTP)
+- Virtualization (VMware, VirtualBox, GNS3)
+- Network Simulation and Security Labs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I'm passionate about learning cybersecurity, working in SOC/Pentest roles, and exploring technology trends.
+
+📬 Feel free to connect or collaborate!
+- Email: doquocphonggsp@gmail.com
+- GitHub: [github.com/qoocpoong](https://github.com/qoocpoong)
